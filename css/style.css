@@ -22,14 +22,14 @@ span {
     0% {
         transform: translate(-50%, -50%);
         opacity: 1;
-        filter: brightness(0.5) contrast(1.5) hue-rotate(260deg); 
+        filter: brightness(0.6) contrast(3) hue-rotate(260deg); 
     }
     50% {
-        filter: brightness(0.5) contrast(1.5) hue-rotate(400deg);
+        filter: brightness(0.7) contrast(4) hue-rotate(300deg);
     }
     100% {
         transform: translate(-50%, -5000%);
         opacity: 0;
-        filter: brightness(1) contrast(1) hue-rotate(700deg);
+        filter: brightness(1) contrast(5) hue-rotate(700deg);
     }
 }
