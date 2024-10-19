@@ -2,3 +2,4 @@
 
 `In Future`
 * Make this process automate 
+* To add a note for mobiel user to Touch the screen
