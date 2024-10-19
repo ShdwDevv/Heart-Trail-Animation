@@ -15,12 +15,13 @@ span{
     transform: translate(-50%,-50%);
     pointer-events: none;
     animation : animate 6s linear;
+    filter: hue-rotate(240deg);
 }
 @keyframes animate{
     0%{
         transform:translate(-50%,-50%);
         opacity: 1;
-        filter: hue-rotate(0);
+        filter: hue-rotate(220deg);
     }
     100%{
         transform: translate(-50%,-5000%);
